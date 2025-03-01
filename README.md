@@ -4,7 +4,7 @@ Build your first app in minutes.
 Loved by frontend and product teams
 at the world's largest and most innovative companies
 
-![Pinterest Image](https://www.pinterest.com/pin/789185534737070382/sent/?invite_code=87a27994b8044125aa92a4d9d48ea6b8&sender=789185672111110334&sfo=1)
+![Image](https://pin.it/XCUpn68ye)
 
 ## Getting Started
 
