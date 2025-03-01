@@ -4,8 +4,6 @@ Build your first app in minutes.
 Loved by frontend and product teams
 at the world's largest and most innovative companies
 
-![Image](https://pin.it/XCUpn68ye)
-
 ## Getting Started
 
 To get started with this project, follow these steps:
