@@ -26,6 +26,6 @@ We welcome contributions! Please see our [contributing guidelines](https://verce
 
 ## Generation of web applications. 
 
-Vitest is free and open source,  [Get Start](https://vitest.dev/)
+Vitest is free and open source,  [Get Start](https://vite.dev/)
 
 Thank for reading!
