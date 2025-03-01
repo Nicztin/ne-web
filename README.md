@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 
 ## Learn More
 
-Learn  how you can connect with cybersecurity community, check out [this book](https://simplebooklet.com/book8page#page=2).
+Learn  how you can connect with cybersecurity community, check out [this book](https://simplebooklet.com/book8page).
 
 ## Deploy automatically from git or with our CLI
 
