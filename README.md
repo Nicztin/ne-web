@@ -1,7 +1,7 @@
 # See for yourself.
 Build your first app in minutes. 
 
-# Hello, I'm Nicztin! 👋
+# I'm Nicztin! 👋
 ![image](https://github.com/user-attachments/assets/15703d4e-9fa5-4a60-b53d-4d1ecc13640c)
 
 Welcome to my GitHub profile! I’m a passionate developer who loves building innovative and impactful solutions using technology. 
